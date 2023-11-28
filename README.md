@@ -1,11 +1,11 @@
-# Project Title
+# BaseSharp
 
-BaseSharp
 
-## Description
 
-BaseSharp is a highly flexible project template for .NET C# Windows Forms applications for developing cheats for games.
+## BaseSharp is a highly flexible project template for .NET C# Windows Forms applications for developing cheats for games.
 I am making this for fun, no guarantee that the first release will be polished, but i am going to keep updating this until i am happy with it.
+
+
 
 ## It will come with:
  - In-built Winform GUI
